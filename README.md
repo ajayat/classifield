@@ -1,7 +1,7 @@
 <h1 align="center">ClassiField</h1>
 <h4 align="center">An algorithm to classify agricultural fields</h4>
 
-![Python3.12](https://img.shields.io/badge/python-3.13-red) &nbsp;
+![Python3.11](https://img.shields.io/badge/python-3.11-red) &nbsp;
 
 ## Overview
 
@@ -10,7 +10,7 @@
 ## Software
 
 **Python** <br>
-It's required to have python 3.13 or more installed on your system.
+It's required to have python 3.11 installed on your system.
 [Download Python](https://www.python.org/downloads/)
 
 **Git LFS** <br>
