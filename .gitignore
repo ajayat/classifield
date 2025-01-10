@@ -42,3 +42,6 @@ __pypackages__/
 env/
 venv/
 
+data/v2/
+v2/
+
